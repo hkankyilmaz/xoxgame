@@ -1,0 +1,20 @@
+.square {
+  font-size: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 33%;
+  height: 33%;
+  background-color: #e9967a;
+  cursor: pointer;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  box-shadow: 0px 5px 15px rgb(0, 0, 0, 0.6);
+}
+
+.square:hover {
+  background-color: #e98969;
+}
+.square:active {
+  background-color: #dd7856;
+}
