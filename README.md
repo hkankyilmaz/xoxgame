@@ -17,10 +17,10 @@ npm install
 npm start
 ```
 
-### Install Dependencies
+### to Build for Production
 
 ```
-npm install
+npm build
 ```
 
 ## 🔥 Technologies and Libraries <br>
