@@ -27,6 +27,6 @@ npm install
 
 ✔️ React.js <br>
 
-## 📷 Screenshot <hr>
+## 📷 Screenshot <br>
 
 <img src="https://media.giphy.com/media/5fWXeqDc5XTulEdwNG/giphy.gif">
