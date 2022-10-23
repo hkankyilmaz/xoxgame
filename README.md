@@ -1,7 +1,7 @@
 # Movie App
 
 🔸 Let's play Tic Tac Toe Game ! <br>
-🔸 This web app built with using [React](https://reactjs.org/).
+🔸 This web app built with using [React](https://reactjs.org/).<br>
 🔸 Click and see live demo [here](https://tictocgame.vercel.app/).
 
 ## 💻 Setup <br>
